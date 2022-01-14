@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background: linear-gradient(#4ba690 0%,#b0571c 100% );
+ font-family: fantasy;   
+}
+img{
+    width: 280px;
+}
+
+.links:hover{
+    background-color: crimson;
+    
+    padding-right: 5px;
+}
+    
+    
